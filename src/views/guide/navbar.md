@@ -208,7 +208,7 @@ Use the `vk-navbar-logo` to indicate your brand.
 
 ## Centered logo
 
-You can create a split menu with a centered logo. Use the `center-left` soft for one nav and `center-right` slot for the other. This will keep your logo centered and align the menus to the left and right.
+You can create a split menu with a centered logo. Use the `center-left` slot for one nav and `center-right` slot for the other. This will keep your logo centered and align the menus to the left and right.
 
 ```html
 <vk-navbar>
